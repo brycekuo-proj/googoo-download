@@ -4,6 +4,8 @@
 
 ## 下載
 
+下載頁（可以直接貼在 LINE）：https://brycekuo-proj.github.io/googoo-download/?openExternalBrowser=1
+
 - 咕咕學堂：[GooGooSchool.apk](https://github.com/brycekuo-proj/googoo-download/releases/latest/download/GooGooSchool.apk)
 - 咕咕英文（選裝：英文單字遊戲＋YouTube 鎖）：[GooGooEnglish.apk](https://github.com/brycekuo-proj/googoo-download/releases/latest/download/GooGooEnglish.apk)
 
