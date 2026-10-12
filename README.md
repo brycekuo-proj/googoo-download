@@ -1,4 +1,4 @@
-# 咕咕學堂
+# 至雋老師學堂（原咕咕學堂）
 
 國小二年級 國語・數學・英語 練習（康軒國語、康軒數學、何嘉仁 WOW! STORY）。
 
@@ -14,7 +14,7 @@ https://brycekuo-proj.github.io/googoo-download/?openExternalBrowser=1
 
 下載頁：https://brycekuo-proj.github.io/googoo-download/android/?openExternalBrowser=1
 
-- 咕咕學堂：[GooGooSchool.apk](https://github.com/brycekuo-proj/googoo-download/releases/latest/download/GooGooSchool.apk)
+- 至雋老師學堂：[GooGooSchool.apk](https://github.com/brycekuo-proj/googoo-download/releases/latest/download/GooGooSchool.apk)
 - 咕咕英文（選裝：英文單字遊戲＋YouTube 鎖）：[GooGooEnglish.apk](https://github.com/brycekuo-proj/googoo-download/releases/latest/download/GooGooEnglish.apk)
 
 個人製作，給親友分享使用。
